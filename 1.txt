@@ -1,2 +1,2 @@
 my name is wangyingdong
-Creating a new branch is quick and merge wyd
+Creating a new branch is quick and merge wangyingdong
